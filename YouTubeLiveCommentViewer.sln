@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YouTubeLiveCommentViewer", "YouTubeLiveCommentViewer\YouTubeLiveCommentViewer.csproj", "{6E9FF667-808C-4428-8E17-1758095DC1E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommentViewer_Debug", "CommentViewer_Debug\CommentViewer_Debug.csproj", "{42F4D2FD-5393-44CA-925E-9948FFC0FDA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E9FF667-808C-4428-8E17-1758095DC1E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E9FF667-808C-4428-8E17-1758095DC1E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E9FF667-808C-4428-8E17-1758095DC1E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E9FF667-808C-4428-8E17-1758095DC1E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42F4D2FD-5393-44CA-925E-9948FFC0FDA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42F4D2FD-5393-44CA-925E-9948FFC0FDA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42F4D2FD-5393-44CA-925E-9948FFC0FDA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42F4D2FD-5393-44CA-925E-9948FFC0FDA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBB6B03E-C2FB-4FD2-9355-290F643FA598}
+	EndGlobalSection
+EndGlobal
